@@ -135,11 +135,6 @@ Live comparison charts showing 360x speed improvement
 # Basic demo
 python main.py
 
-# See examples
-python examples/basic_usage.py
-
-# Run tests
-python -m pytest tests/
 ```
 
 ## 🏆 Hackathon Judges: What Makes This Special
