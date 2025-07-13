@@ -137,13 +137,6 @@ python main.py
 
 ```
 
-## 🏆 Hackathon Judges: What Makes This Special
-
-1. **🚀 Technical Innovation**: Multi-agent AI architecture with real-time coordination
-2. **💡 Social Impact**: Addresses insurance inequality with AI bias detection  
-3. **📊 Measurable Results**: 360x speed improvement, 99.8% cost reduction
-4. **🎨 User Experience**: Beautiful ASCII visualizations and interactive terminal UI
-5. **🔧 Production Ready**: Modular design with comprehensive testing and documentation
 
 ## 📱 Demo Screenshots (ASCII Art!)
 
